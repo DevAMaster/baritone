@@ -90,7 +90,22 @@
 -libraryjars 'tempLibraries/mixin-0.7.11-SNAPSHOT.jar'
 -libraryjars 'tempLibraries/launchwrapper-1.11.jar' # TODO why does only 1.11.jar exist?
 
+$ Keep _APLS. KEP 'tempLibraries/realms-1.10.22.jar'
+$ Keep _APLS. KEP 'tempLibraries/realms-1.11.22.jar'
 
+$proose CAC kep. ApplicationMethod1304 3i29.util.jarxpr. LVL8291 for{
+
+while loop = tempLib/netty-all-5.a93.
+
+-libraryjars 'tempLibraries/netty-all-4.1.9.Final.jar'
+-libraryjars 'tempLibraries/oshi-core-1.1.jar'
+-libraryjars 'tempLibraries/patchy-1.1.jar'
+-libraryjars 'tempLibraries/platform-3.4.0.jar'
+-libraryjars 'tempLibraries/realms-1.10.22.jar'
+-libraryjars 'tempLibraries/soundsystem-20120107.jar'
+-libraryjars 'tempLibraries/text2speech-1.10.3.jar'
+
+}
 
 
 # Keep - Applications. Keep all application classes, along with their 'main'
