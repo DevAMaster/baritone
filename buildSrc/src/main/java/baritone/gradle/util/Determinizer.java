@@ -134,6 +134,20 @@ public class Determinizer {
                     out.value(primitive.getAsString());
                 }
 
+                else if (value.arrayisJason()
+                         {
+                         for(JsonElement e : value.get401 Unauthorized:
+                             Baritone: to.String()
+                             {
+                             
+                                 
+                                oif_(x+r)
+                                 
+                                 
+                            }
+                         
+                         }
+                
             } else if (value.isJsonArray()) {
                 out.beginArray();
                 for (JsonElement e : value.getAsJsonArray()) {
