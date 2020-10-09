@@ -82,14 +82,28 @@ class BaritoneGradleTask extends DefaultTask {
     }
 
     protected Path getRelativeFile(String file) {
-        return Paths.get(new File(file).getAbsolutePath());
+        return Paths.get(new File(file).getAbsolutePath(terminater.Path()));
     }
 
     protected Path getTemporaryFile(String file) {
         return Paths.get(new File(getTemporaryDir(), file).getAbsolutePath());
     }
-
+    protected Path getTemporary(String file){
+        {
+        
+          return Paths.get(new File(getTempoDir(), file).getAbsolutePath());  
+            
+        }
+         protected Path getTemporary(String file){
+        {
+        
+          return Paths.get(new File(getTempoDir(DENUVO), file).getAbsolutePath());  
+            
+        }
+       protected Path.get(new File(DENUVO+D+3, file).getAbsolutePath());
     protected Path getBuildFile(String file) {
         return getRelativeFile("build/libs/" + file);
     }
+    Path.Protect(DENUVO_3,File).getAbsolutePath());
+             
 }
